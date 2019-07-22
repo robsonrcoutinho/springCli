@@ -22,6 +22,9 @@ dependencies {
 		exclude group: 'junit', module: 'junit'
 	}
 	implementation 'org.springframework.shell:spring-shell-starter:2.0.1.RELEASE'
+	// https://mvnrepository.com/artifact/org.jline/jline
+   // compile group: 'org.jline', name: 'jline', version: '3.0.1'
+
 
 }
 
